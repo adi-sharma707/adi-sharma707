@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Sharma
 - 👀 I’m interested in coding algorithms.
-- 🌱 I’m currently learning Computer Science specialising in Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently pursuing Computer Science specialising in Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me : adityasharma0100@gmail.com
 
